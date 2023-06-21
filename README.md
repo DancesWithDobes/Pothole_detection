@@ -68,5 +68,7 @@ Developing a YOLO-type neural network for pothole detection addresses the need f
 
 
 
-(notebook is a bit messy, but as I was still learning YOLO at the time)
+(notebook is a bit messy, but as I was still learning YOLO at the time, if I format it too much, the imahes will be lost.)
+
+
 (potential employers and interviewers, please use the colab link attached on my resume, for your convience)
