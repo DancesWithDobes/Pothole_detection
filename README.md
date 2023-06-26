@@ -1,6 +1,9 @@
 # Pothole detection using YOLOV8
 
 
+### Link to Google Colab Notebook:
+
+https://colab.research.google.com/drive/1m8bec1U_jUpY8CRNTptdcoczq32x0RAg?usp=sharing
 
 
 Potholes pose a significant challenge to road infrastructure and can lead to accidents, damage to vehicles, and increased maintenance costs. Detecting and repairing potholes in a timely manner is crucial for ensuring road safety and minimizing the impact on drivers and transportation systems. Traditional methods of manual inspection are time-consuming, costly, and often ineffective.
